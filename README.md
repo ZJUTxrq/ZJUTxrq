@@ -1,7 +1,6 @@
 - 👋 Hi, I’m ruqian xia, from zhejiang university of technology
-- 👀 I’m interested in snow mountain climbing
-- 🌱 I’m currently learning software testing and development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in climbing
+- 🌱 I work on software testing and development
 - 📫 How to reach me email:x1360159068@126.com
 
 <!---
