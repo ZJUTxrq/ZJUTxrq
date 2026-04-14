@@ -1,6 +1,4 @@
-- 👋 Hi, I’m ruqian xia, from zhejiang university of technology
-- 👀 I’m interested in climbing
-- 🌱 I work on software testing and development
+- 👋 QA Engineer
 - 📫 How to reach me email:x1360159068@126.com
 
 <!---
