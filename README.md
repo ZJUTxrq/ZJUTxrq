@@ -1,4 +1,4 @@
-- SDET Engineer
+- QA Engineer
 - Email:x1360159068@126.com
 
 <!---
